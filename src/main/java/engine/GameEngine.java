@@ -1,9 +1,9 @@
 package engine;
 
-import input.ConsoleManager;
+import IO.ConsoleManager;
 import models.characters.Hero;
 import models.utility.HeroWarehouse;
-import output.Display;
+import IO.Display;
 
 public class GameEngine {
     private Display gameDisplay = new Display();
