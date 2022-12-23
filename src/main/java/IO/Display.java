@@ -1,4 +1,4 @@
-package output;
+package IO;
 
 import models.characters.CharacterModel;
 

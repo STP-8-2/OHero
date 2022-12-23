@@ -32,7 +32,7 @@
  
 
 ## Developmental Notes
-* OHero (Be your own Hero!) is an adventure game. The adventure is making the game. As such, player input is required early and often and **EVERY DECISION** should impact the state of The Player's character. Those state changes (IE, Stats) should reflect future interactions.
+* OHero (Be your own Hero!) is an adventure game. The adventure is making the game. As such, player IO is required early and often and **EVERY DECISION** should impact the state of The Player's character. Those state changes (IE, Stats) should reflect future interactions.
 * You are to utilize tools and techniques you have learned throughout the course to plan and solve the problems involved with creating a functional game with a manageable code base.
 * Manage your abstractions. Think through and understand where methods should be - does The Player move to the next room, or does the current active character being used by that player move to the next room? Does it matter?
 * You must have a completed and approved UML diagram before you proceed to do any development
